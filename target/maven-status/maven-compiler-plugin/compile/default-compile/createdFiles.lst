@@ -1,1 +1,2 @@
 org\apache\hadoop\hive\contrib\auth\CustomPasswdAuthenticator.class
+org\apache\hadoop\hive\contrib\auth\MySqlJdbcUtils.class
